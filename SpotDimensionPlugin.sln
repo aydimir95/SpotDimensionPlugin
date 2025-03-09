@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotDimensionPlugin", "SpotDimensionPlugin\SpotDimensionPlugin.csproj", "{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug R20|Any CPU = Debug R20|Any CPU
+		Debug R21|Any CPU = Debug R21|Any CPU
+		Debug R22|Any CPU = Debug R22|Any CPU
+		Debug R23|Any CPU = Debug R23|Any CPU
+		Debug R24|Any CPU = Debug R24|Any CPU
+		Debug R25|Any CPU = Debug R25|Any CPU
+		Release R20|Any CPU = Release R20|Any CPU
+		Release R21|Any CPU = Release R21|Any CPU
+		Release R22|Any CPU = Release R22|Any CPU
+		Release R23|Any CPU = Release R23|Any CPU
+		Release R24|Any CPU = Release R24|Any CPU
+		Release R25|Any CPU = Release R25|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Debug R20|Any CPU.ActiveCfg = Debug R20|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Debug R20|Any CPU.Build.0 = Debug R20|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Debug R21|Any CPU.ActiveCfg = Debug R21|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Debug R21|Any CPU.Build.0 = Debug R21|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Debug R22|Any CPU.ActiveCfg = Debug R22|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Debug R22|Any CPU.Build.0 = Debug R22|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Debug R23|Any CPU.ActiveCfg = Debug R23|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Debug R23|Any CPU.Build.0 = Debug R23|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Debug R24|Any CPU.ActiveCfg = Debug R24|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Debug R24|Any CPU.Build.0 = Debug R24|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Debug R25|Any CPU.ActiveCfg = Debug R25|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Debug R25|Any CPU.Build.0 = Debug R25|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Release R20|Any CPU.ActiveCfg = Release R20|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Release R20|Any CPU.Build.0 = Release R20|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Release R21|Any CPU.ActiveCfg = Release R21|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Release R21|Any CPU.Build.0 = Release R21|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Release R22|Any CPU.ActiveCfg = Release R22|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Release R22|Any CPU.Build.0 = Release R22|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Release R23|Any CPU.ActiveCfg = Release R23|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Release R23|Any CPU.Build.0 = Release R23|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Release R24|Any CPU.ActiveCfg = Release R24|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Release R24|Any CPU.Build.0 = Release R24|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Release R25|Any CPU.ActiveCfg = Release R25|Any CPU
+		{AC5C75E6-9BA3-4D55-A721-9351A9DAFB56}.Release R25|Any CPU.Build.0 = Release R25|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EDAE166-7D7E-4AAF-93DE-4F30A7C154B6}
+	EndGlobalSection
+EndGlobal

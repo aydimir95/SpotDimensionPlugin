@@ -1,0 +1,11 @@
+﻿<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>SpotDimensionPlugin</Name>
+        <Assembly>SpotDimensionPlugin/SpotDimensionPlugin.dll</Assembly>
+        <AddInId>AFDD93C5-9565-4DF4-897C-1BA5C778EA49</AddInId>
+        <FullClassName>SpotDimensionPlugin.Application</FullClassName>
+        <VendorId>AYDrafting</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail>aydimir@aydrafting.com</VendorEmail>
+    </AddIn>
+</RevitAddIns>
